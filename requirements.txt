@@ -1,0 +1,10 @@
+llama-cpp-python==0.1.85
+huggingface_hub
+sentence-transformers
+langchain
+langchain-community
+chromadb
+PyMuPDF
+tiktoken
+pandas
+
